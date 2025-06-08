@@ -92,7 +92,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Thanks to everyone [reverse engineering the eWeLink protocols] (https://github.com/arendst/Tasmota/discussions/15220)
+- Thanks to everyone at the Tasmota forums for [reverse engineering the eWeLink protocols](https://github.com/arendst/Tasmota/discussions/15220)
 
 ## Changelog
 

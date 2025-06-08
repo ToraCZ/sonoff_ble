@@ -1,5 +1,6 @@
 {
   "name": "Sonoff BLE",
+  "category": "integration",
   "content_in_root": false,
   "zip_release": true,
   "filename": "sonoff_ble.zip",

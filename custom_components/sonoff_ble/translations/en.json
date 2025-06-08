@@ -1,0 +1,37 @@
+{
+  "config": {
+    "title": "Sonoff BLE",
+    "abort": {
+      "already_configured": "Sonoff BLE integration is already configured.",
+      "single_instance_allowed": "Only one instance of Sonoff BLE is allowed."
+    },
+    "step": {
+      "user": {
+        "title": "Set up Sonoff BLE",
+        "description": "Set up the Sonoff BLE integration to discover and manage your Sonoff BLE devices."
+      }
+    }
+  },
+  "device_automation": {
+    "trigger_type": {
+      "s1_short": "S1 Short Press",
+      "s1_double": "S1 Double Press",
+      "s1_long": "S1 Long Press",
+      "s2_short": "S2 Short Press",
+      "s2_double": "S2 Double Press",
+      "s2_long": "S2 Long Press",
+      "s3_short": "S3 Short Press",
+      "s3_double": "S3 Double Press",
+      "s3_long": "S3 Long Press",
+      "s4_short": "S4 Short Press",
+      "s4_double": "S4 Double Press",
+      "s4_long": "S4 Long Press",
+      "s5_short": "S5 Short Press",
+      "s5_double": "S5 Double Press",
+      "s5_long": "S5 Long Press",
+      "s6_short": "S6 Short Press",
+      "s6_double": "S6 Double Press",
+      "s6_long": "S6 Long Press"
+    }
+  }
+}

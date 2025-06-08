@@ -1,0 +1,24 @@
+{
+  "domain": "sonoff_ble",
+  "name": "Sonoff BLE",
+  "version": "1.0.0",
+  "documentation": "https://github.com/ToraCZ/sonoff_ble",
+  "issue_tracker": "https://github.com/ToraCZ/sonoff_ble/issues",
+  "dependencies": [
+    "bluetooth"
+  ],
+  "codeowners": [
+    "@ToraCZ"
+  ],
+  "config_flow": true,
+  "iot_class": "local_push",
+  "platforms": [
+    "device_trigger"
+  ],
+  "bluetooth": [
+    {
+      "local_name": "66-55-44-33-22-11",
+      "connectable": false
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Sonoff BLE",
+  "content_in_root": false,
+  "zip_release": false,
+  "filename": "sonoff_ble.zip",
+  "hide_default_branch": false,
+  "homeassistant": "2025.5.3"
+}
